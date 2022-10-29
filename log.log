@@ -1,0 +1,127 @@
+2022-10-29 16:51:51,198 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:51:51,198 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:52:32,679 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:52:32,679 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:53:02,664 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:53:02,664 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:53:12,659 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54146) connected.
+2022-10-29 16:53:12,659 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 0.6ms
+2022-10-29 16:53:24,871 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54148) connected.
+2022-10-29 16:53:24,871 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 0.5ms
+2022-10-29 16:56:38,486 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:56:38,486 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:57:07,694 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:57:07,694 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:57:17,278 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:57:17,279 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:57:53,525 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:57:53,525 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:57:57,046 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54236) connected.
+2022-10-29 16:57:57,047 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 1.2ms
+2022-10-29 16:58:23,740 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54240) connected.
+2022-10-29 16:58:23,741 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 1.0ms
+2022-10-29 16:59:27,265 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:59:27,265 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 16:59:57,468 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 16:59:57,469 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:00:37,817 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:00:37,817 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:01:07,274 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54254) connected.
+2022-10-29 17:01:07,275 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 1.7ms
+2022-10-29 17:01:29,094 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:01:29,094 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:01:35,437 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:01:35,437 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:02:15,127 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:02:15,128 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:02:40,325 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:02:40,326 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:03:09,067 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:03:09,067 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:03:11,679 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54280) connected.
+2022-10-29 17:03:11,680 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54280) connected.
+2022-10-29 17:03:11,680 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 1.2ms
+2022-10-29 17:08:02,956 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:08:02,957 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:08:05,262 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54296) connected.
+2022-10-29 17:08:05,262 - [SEARCH] - DEBUG - [SEARCHING FOR] - 4;0;1;28;0;8;5;0;
+2022-10-29 17:08:05,262 - [SEARCH] - DEBUG - [SEARCHING IN] - 200k.txt
+2022-10-29 17:08:05,262 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 0.9ms
+2022-10-29 17:08:05,263 - [SEARCH] - DEBUG - STRING EXISTS
+2022-10-29 17:08:05,263 - [SEARCH] - DEBUG - [Connection closed ('127.0.0.1', 54296)
+2022-10-29 17:08:06,972 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54298) connected.
+2022-10-29 17:08:06,972 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 0.5ms
+2022-10-29 17:08:06,973 - [SEARCH] - DEBUG - [SEARCHING FOR] - 4;0;1;28;0;8;5;0;
+2022-10-29 17:08:06,973 - [SEARCH] - DEBUG - [SEARCHING IN] - 200k.txt
+2022-10-29 17:08:06,973 - [SEARCH] - DEBUG - STRING EXISTS
+2022-10-29 17:08:06,973 - [SEARCH] - DEBUG - [Connection closed ('127.0.0.1', 54298)
+2022-10-29 17:09:48,798 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54308) connected.
+2022-10-29 17:35:45,499 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54320) connected.
+2022-10-29 17:36:14,607 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:36:14,607 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:36:44,059 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:36:44,060 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:37:05,426 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:37:05,426 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:37:26,031 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:37:26,031 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:37:48,184 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:37:48,184 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:37:56,260 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54382) connected.
+2022-10-29 17:37:56,260 - [SEARCH] - DEBUG - [SEARCHING FOR] - 200k.txt
+2022-10-29 17:37:56,260 - [SEARCH] - DEBUG - [SEARCHING IN] - DISCONNECTED!
+2022-10-29 17:38:44,647 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:38:44,647 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:38:54,580 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:38:54,580 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:39:31,872 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:39:31,872 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:39:34,865 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54394) connected.
+2022-10-29 17:39:34,866 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 0.6ms
+2022-10-29 17:39:34,866 - [SEARCH] - DEBUG - [SEARCHING FOR] - 4;0;1;28;0;8;5;0;
+2022-10-29 17:39:34,866 - [SEARCH] - DEBUG - [SEARCHING IN] - 200k.txt
+2022-10-29 17:39:34,866 - [SEARCH] - DEBUG - STRING EXISTS
+2022-10-29 17:39:34,867 - [SEARCH] - DEBUG - [Connection closed ('127.0.0.1', 54394)
+2022-10-29 17:40:49,726 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54420) connected.
+2022-10-29 17:41:40,187 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:41:40,187 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:41:42,375 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:41:42,375 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:41:44,235 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:41:44,235 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:42:13,861 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 17:42:13,861 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 17:49:05,308 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54552) connected.
+2022-10-29 17:50:04,589 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54562) connected.
+2022-10-29 17:50:04,589 - [SEARCH] - DEBUG - [SEARCHING FOR] - 4;0;1;28;0;8;5;0;
+2022-10-29 17:50:04,589 - [SEARCH] - DEBUG - [SEARCHING IN] - 200k.txt
+2022-10-29 17:50:04,590 - [SEARCH] - DEBUG - STRING EXISTS
+2022-10-29 17:50:04,590 - [SEARCH] - DEBUG - [Connection closed ('127.0.0.1', 54562)
+2022-10-29 17:58:16,952 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54644) connected.
+2022-10-29 18:00:44,781 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54690) connected.
+2022-10-29 18:03:46,232 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54758) connected.
+2022-10-29 18:07:13,446 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54790) connected.
+2022-10-29 18:19:02,756 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 18:19:02,756 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 18:19:26,666 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 18:19:26,666 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 18:20:30,717 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 18:20:30,718 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 18:20:38,186 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 0.4ms
+2022-10-29 18:21:11,947 - [SEARCH] - DEBUG - [STARTING] server is starting ...
+2022-10-29 18:21:11,948 - [SEARCH] - DEBUG - [STARTING] Server is listening on 127.0.1.1
+2022-10-29 18:21:15,045 - [SEARCH] - DEBUG - [NEW CONNECTION ('127.0.0.1', 54900) connected.
+2022-10-29 18:21:15,045 - [SEARCH] - DEBUG - 
+        millisecond execution time per file: 0.6ms
+2022-10-29 18:21:15,046 - [SEARCH] - DEBUG - [SEARCHING FOR] - 4;0;1;28;0;8;5;0;
+2022-10-29 18:21:15,046 - [SEARCH] - DEBUG - [SEARCHING IN] - 200k.txt
